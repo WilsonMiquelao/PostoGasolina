@@ -1,24 +1,32 @@
-⛽ Sistema de Bomba de Combustível
-Este é um projeto simples em Python que simula o funcionamento de uma bomba de combustível em um posto de gasolina. Ele permite realizar operações como abastecer por valor ou por litro, alterar o tipo de combustível, preço por litro e quantidade disponível.
+# ⛽️ Sistema de Bomba de Combustível
 
-🚀 Funcionalidades
-Abastecer por valor
-O usuário informa um valor em reais, e o sistema calcula quantos litros podem ser abastecidos com base no preço atual por litro.
+Simulador simples de uma bomba de combustível desenvolvido em Python.  
+Ideal para fins educacionais, o sistema permite operações como abastecimento, alteração de valores, e visualização de status da bomba.
 
-Abastecer por litro
-O usuário informa a quantidade de litros desejada, e o sistema calcula o valor a pagar.
+---
 
-Alterar valor do litro
-Permite atualizar o preço do combustível por litro.
+## 📌 Funcionalidades
 
-Alterar tipo de combustível
-Permite trocar o tipo de combustível da bomba (ex: Gasolina, Etanol, Diesel).
+- 💸 **Abastecer por valor**  
+  Informa o valor em R$ e abastece a quantidade correspondente em litros.
 
-Alterar quantidade de combustível disponível
-Atualiza a quantidade total de combustível disponível na bomba.
+- 🧪 **Abastecer por litro**  
+  Informa a quantidade de litros e calcula o valor a pagar.
 
-Exibir status da bomba
-Mostra informações atuais da bomba, como tipo de combustível, preço por litro e quantidade restante.
+- 🛠️ **Alterar valor do litro**  
+  Atualiza o preço por litro do combustível.
 
-🛠️ Tecnologias
-Python 3
+- 🔄 **Alterar tipo de combustível**  
+  Modifica o tipo de combustível (ex: Gasolina, Etanol, Diesel).
+
+- ⛽ **Alterar quantidade de combustível**  
+  Atualiza a quantidade total de combustível disponível na bomba.
+
+- 📊 **Exibir status da bomba**  
+  Exibe todas as informações atuais da bomba (tipo, valor por litro, quantidade).
+
+---
+
+## 🧰 Tecnologias utilizadas
+
+- [Python 3](https://www.python.org/)
