@@ -1,24 +1,24 @@
-📝 Descrição
-Este projeto implementa um sistema de bomba de combustível utilizando programação orientada a objetos em Python. O sistema simula as operações básicas de uma bomba de combustível real, permitindo:
+⛽ Sistema de Bomba de Combustível
+Este é um projeto simples em Python que simula o funcionamento de uma bomba de combustível em um posto de gasolina. Ele permite realizar operações como abastecer por valor ou por litro, alterar o tipo de combustível, preço por litro e quantidade disponível.
 
-Abastecimento por valor ou por litro
+🚀 Funcionalidades
+Abastecer por valor
+O usuário informa um valor em reais, e o sistema calcula quantos litros podem ser abastecidos com base no preço atual por litro.
 
-Gerenciamento do tipo de combustível
+Abastecer por litro
+O usuário informa a quantidade de litros desejada, e o sistema calcula o valor a pagar.
 
-Controle de preço por litro
+Alterar valor do litro
+Permite atualizar o preço do combustível por litro.
 
-Gestão do estoque de combustível
+Alterar tipo de combustível
+Permite trocar o tipo de combustível da bomba (ex: Gasolina, Etanol, Diesel).
 
-🛠️ Funcionalidades
-Classe BombaCombustivel com todos os atributos e métodos necessários
+Alterar quantidade de combustível disponível
+Atualiza a quantidade total de combustível disponível na bomba.
 
-Menu interativo para operação via terminal
+Exibir status da bomba
+Mostra informações atuais da bomba, como tipo de combustível, preço por litro e quantidade restante.
 
-Validações para evitar erros durante as operações
-
-Feedback visual claro para todas as operações
-
-📋 Requisitos
-Python 3.x instalado
-
-Nenhuma dependência externa necessária
+🛠️ Tecnologias
+Python 3
